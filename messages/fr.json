@@ -1,9 +1,9 @@
 {
   "meta": {
-    "siteTitle": "Eleven Stories — Agence de relations presse France & International",
-    "siteDescription": "Eleven Stories accompagne les marques lifestyle premium — mode, joaillerie, beauté, hôtellerie, restauration, design — dans leur stratégie de relations presse, en France et à l'international.",
+    "siteTitle": "Eleven Stories | Agence de relations presse à Toulouse",
+    "siteDescription": "Agence de relations presse à Toulouse, Eleven Stories accompagne les marques lifestyle premium (mode, joaillerie, beauté, hôtellerie) en France et à l'international.",
     "history": "L'histoire d'Eleven Stories",
-    "historyDescription": "Leah Colomer a fondé Eleven Stories, une agence de relations presse France & International dédiée aux univers du lifestyle haut de gamme.",
+    "historyDescription": "Attachée de presse depuis plus de 6 ans, Leah Colomer a fondé Eleven Stories, agence RP lifestyle haut de gamme à Toulouse, en France et à l'international.",
     "expertise": "Nos expertises",
     "expertiseDescription": "Relations presse, stratégie & visibilité de marque, lancements & événements, développement international : l'art du sur-mesure.",
     "clients": "Ils écrivent l'histoire avec nous",
@@ -41,13 +41,23 @@
     "eyebrow": "Agence de relations presse · France & International",
     "title": "Des histoires qui méritent <em>de voyager…</em>",
     "discover": "Découvrir Eleven Stories",
+    "heroAlt": "Attachée de presse, magazines à la main — Eleven Stories, relations presse à Toulouse",
     "introEyebrow": "L'agence",
     "introLead": "Eleven Stories est une agence de relations presse spécialisée dans l'accompagnement de marques lifestyle premium, en France et à l'international.",
     "introBody": "Mode, joaillerie, beauté, hôtellerie, restauration, design... Nous construisons des stratégies RP sur mesure pour développer votre visibilité, renforcer votre image et inscrire votre marque dans les médias qui comptent.",
     "introClosing": "Parce qu'une belle histoire ne devrait pas s'arrêter à une frontière.",
     "introLink": "L'histoire d'Eleven Stories",
     "manifesto": "<em>Raconter.</em> Connecter. <em>Inspirer.</em>",
-    "sectors": ["Mode", "Joaillerie", "Beauté", "Cosmétique", "Hôtellerie", "Restauration", "Design", "Art de vivre"],
+    "sectors": [
+      "Mode",
+      "Joaillerie",
+      "Beauté",
+      "Cosmétique",
+      "Hôtellerie",
+      "Restauration",
+      "Design",
+      "Art de vivre"
+    ],
     "expertiseEyebrow": "Nos expertises",
     "expertiseTitle": "L'art du <em>sur-mesure</em>",
     "expertiseLink": "Découvrir nos expertises",
@@ -84,7 +94,12 @@
     "closing": "Eleven Stories, c'est une vision des relations presse exigeante, humaine, agile et ouverte sur le monde.",
     "signature": "Vous créez l'exception. Je lui donne l'écho qu'elle mérite, <em>ici comme ailleurs.</em>",
     "signatureAuthor": "Leah Colomer — Fondatrice",
-    "values": ["Exigeante", "Humaine", "Agile", "Ouverte sur le monde"]
+    "values": [
+      "Exigeante",
+      "Humaine",
+      "Agile",
+      "Ouverte sur le monde"
+    ]
   },
   "expertise": {
     "eyebrow": "La méthode — Eleven Stories",
@@ -128,6 +143,7 @@
     "instagramSoon": "Bientôt disponible",
     "location": "Localisation",
     "locationValue": "Basée à Toulouse — France & International",
+    "imageAlt": "Magazines et revues de presse — Eleven Stories, agence de relations presse à Toulouse",
     "ctaText": "Vous préférez nous présenter votre projet en quelques lignes ?",
     "ctaButton": "Parlons-en"
   },

@@ -5,7 +5,7 @@
   --color-paper: #ffffff;
   --color-ecru: #f4efe8;
   --color-sand: #e9e1d6;
-  --color-taupe: #8f8175;
+  --color-taupe: #73675c;
   --color-line: #d9d2c8;
   --color-muted: #5f5a55;
 
@@ -119,6 +119,22 @@
     background-size: 100% 1px;
     background-position: 0 100%;
   }
+}
+
+/* Apparition au chargement, en CSS pur : démarre dès le premier affichage
+   sans attendre le JavaScript (important pour la vitesse perçue et le SEO) */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(32px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.animate-rise {
+  animation: rise 1.3s var(--ease-editorial) both;
 }
 
 /* Défilement continu des secteurs */

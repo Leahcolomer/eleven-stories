@@ -38,7 +38,7 @@ export default async function HistoryPage({ params }: PageProps<"/[locale]/l-his
       <section className="mx-auto max-w-[1600px] px-6 md:px-10">
         <div className="grid gap-14 md:grid-cols-12 md:gap-10">
           <div className="md:col-span-5">
-            <Reveal className="md:sticky md:top-28">
+            <Reveal immediate delay={0.1} className="md:sticky md:top-28">
               <div className="relative aspect-[3/4] overflow-hidden">
                 <Image
                   src={images.leahJournal}
@@ -55,7 +55,7 @@ export default async function HistoryPage({ params }: PageProps<"/[locale]/l-his
           </div>
 
           <div className="md:col-span-6 md:col-start-7">
-            <Reveal>
+            <Reveal immediate delay={0.2}>
               <span aria-hidden className="display block h-20 text-[9rem] leading-none md:h-28 md:text-[12rem]">
                 &rdquo;
               </span>

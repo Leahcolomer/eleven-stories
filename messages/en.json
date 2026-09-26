@@ -1,9 +1,9 @@
 {
   "meta": {
-    "siteTitle": "Eleven Stories — Press Relations Agency, France & International",
-    "siteDescription": "Eleven Stories supports premium lifestyle brands — fashion, fine jewellery, beauty, hospitality, restaurants, design — with bespoke press relations strategies, in France and internationally.",
+    "siteTitle": "Eleven Stories | Press Relations Agency in Toulouse",
+    "siteDescription": "A Toulouse-based press relations agency, Eleven Stories supports premium lifestyle brands (fashion, jewellery, beauty, hospitality) in France and worldwide.",
     "history": "The Eleven Stories story",
-    "historyDescription": "Leah Colomer founded Eleven Stories, a France & International press relations agency dedicated to luxury lifestyle.",
+    "historyDescription": "A press officer with 6+ years of experience, Leah Colomer founded Eleven Stories, a luxury lifestyle PR agency based in Toulouse, working in France and worldwide.",
     "expertise": "Our expertise",
     "expertiseDescription": "Press relations, brand strategy & visibility, launches & events, international development: the art of bespoke.",
     "clients": "Writing the story with us",
@@ -41,13 +41,23 @@
     "eyebrow": "Press relations agency · France & International",
     "title": "Stories that deserve <em>to travel…</em>",
     "discover": "Discover Eleven Stories",
+    "heroAlt": "Press officer holding magazines — Eleven Stories, press relations in Toulouse",
     "introEyebrow": "The agency",
     "introLead": "Eleven Stories is a press relations agency dedicated to premium lifestyle brands, in France and internationally.",
     "introBody": "Fashion, fine jewellery, beauty, hospitality, restaurants, design... We build bespoke PR strategies to grow your visibility, strengthen your image and place your brand in the media that matter.",
     "introClosing": "Because a beautiful story should never stop at a border.",
     "introLink": "The Eleven Stories story",
     "manifesto": "<em>Tell.</em> Connect. <em>Inspire.</em>",
-    "sectors": ["Fashion", "Fine jewellery", "Beauty", "Cosmetics", "Hospitality", "Restaurants", "Design", "Art de vivre"],
+    "sectors": [
+      "Fashion",
+      "Fine jewellery",
+      "Beauty",
+      "Cosmetics",
+      "Hospitality",
+      "Restaurants",
+      "Design",
+      "Art de vivre"
+    ],
     "expertiseEyebrow": "Our expertise",
     "expertiseTitle": "The art of <em>bespoke</em>",
     "expertiseLink": "Discover our expertise",
@@ -84,7 +94,12 @@
     "closing": "Eleven Stories is a vision of press relations that is demanding, human, agile and open to the world.",
     "signature": "You create the exceptional. I give it the echo it deserves, <em>here and everywhere.</em>",
     "signatureAuthor": "Leah Colomer — Founder",
-    "values": ["Demanding", "Human", "Agile", "Open to the world"]
+    "values": [
+      "Demanding",
+      "Human",
+      "Agile",
+      "Open to the world"
+    ]
   },
   "expertise": {
     "eyebrow": "The method — Eleven Stories",
@@ -128,6 +143,7 @@
     "instagramSoon": "Coming soon",
     "location": "Location",
     "locationValue": "Based in Toulouse — France & International",
+    "imageAlt": "Magazines and press — Eleven Stories, press relations agency in Toulouse",
     "ctaText": "Would you rather tell us about your project in a few lines?",
     "ctaButton": "Let's talk"
   },

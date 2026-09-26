@@ -50,7 +50,7 @@ export default async function ExpertisePage({ params }: PageProps<"/[locale]/nos
                 >
                   <Image
                     src={pictures[i]}
-                    alt=""
+                    alt={`${item.title} — Eleven Stories`}
                     fill
                     sizes="(min-width: 768px) 40vw, 100vw"
                     placeholder="blur"

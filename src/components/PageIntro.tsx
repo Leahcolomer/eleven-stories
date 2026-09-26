@@ -13,7 +13,7 @@ type PageIntroProps = {
 export function PageIntro({ eyebrow, title, children, className }: PageIntroProps) {
   return (
     <header className={cx("mx-auto max-w-[1600px] px-6 pb-16 pt-36 md:px-10 md:pb-24 md:pt-48", className)}>
-      <Reveal>
+      <Reveal immediate>
         <p className="eyebrow flex items-center gap-4 text-taupe">
           <span aria-hidden className="h-px w-10 bg-current" />
           {eyebrow}
@@ -23,7 +23,7 @@ export function PageIntro({ eyebrow, title, children, className }: PageIntroProp
         </h1>
       </Reveal>
       {children && (
-        <Reveal delay={0.15} className="mt-10 max-w-2xl text-lg leading-relaxed text-muted md:ml-[33%] md:mt-14">
+        <Reveal immediate delay={0.15} className="mt-10 max-w-2xl text-lg leading-relaxed text-muted md:ml-[33%] md:mt-14">
           {children}
         </Reveal>
       )}

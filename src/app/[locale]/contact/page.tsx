@@ -41,10 +41,10 @@ export default async function ContactPage({ params }: PageProps<"/[locale]/conta
   return (
     <section className="mx-auto max-w-[1600px] px-6 pb-24 pt-36 md:px-10 md:pb-40 md:pt-48">
       <div className="grid gap-16 md:grid-cols-12 md:gap-10">
-        <Reveal className="relative aspect-[4/5] overflow-hidden md:order-2 md:col-span-5 md:col-start-8">
+        <Reveal immediate className="relative aspect-[4/5] overflow-hidden md:order-2 md:col-span-5 md:col-start-8">
           <Image
             src={images.contact}
-            alt=""
+            alt={t("imageAlt")}
             fill
             priority
             sizes="(min-width: 768px) 40vw, 100vw"
@@ -54,7 +54,7 @@ export default async function ContactPage({ params }: PageProps<"/[locale]/conta
         </Reveal>
 
         <div className="md:order-1 md:col-span-6">
-          <Reveal>
+          <Reveal immediate>
             <p className="eyebrow flex items-center gap-4 text-taupe">
               <span aria-hidden className="h-px w-10 bg-current" />
               {t("eyebrow")}
@@ -63,7 +63,7 @@ export default async function ContactPage({ params }: PageProps<"/[locale]/conta
             <p className="mt-8 max-w-md text-lg leading-relaxed text-muted">{t("intro")}</p>
           </Reveal>
 
-          <Reveal delay={0.1}>
+          <Reveal immediate delay={0.15}>
             <dl className="mt-14 border-t border-line">
               {details.map((d) => (
                 <div key={d.label} className="grid gap-2 border-b border-line py-6 sm:grid-cols-[10rem_1fr] sm:gap-6">

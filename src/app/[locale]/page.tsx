@@ -37,7 +37,7 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
       <section className="relative flex h-svh min-h-[600px] items-center justify-center overflow-hidden bg-ink text-paper">
         <Image
           src={images.hero}
-          alt=""
+          alt={t("heroAlt")}
           fill
           priority
           sizes="100vw"
@@ -100,7 +100,8 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
             {t.rich("manifesto", { em })}
           </p>
         </Reveal>
-        <div className="mt-16 border-y border-line py-5 md:mt-24" aria-label={sectors.join(", ")}>
+        <p className="sr-only">{sectors.join(", ")}</p>
+        <div className="mt-16 border-y border-line py-5 md:mt-24">
           <div className="animate-marquee flex w-max" aria-hidden>
             {[0, 1].map((copy) => (
               <ul key={copy} className="flex shrink-0">
@@ -131,7 +132,7 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
               <Reveal delay={0.1} className="relative mt-12 hidden aspect-[4/5] max-w-md overflow-hidden lg:block">
                 <Image
                   src={images.expertise01}
-                  alt=""
+                  alt={`${expertises[0].title} — Eleven Stories`}
                   fill
                   sizes="(min-width: 1024px) 28rem, 100vw"
                   placeholder="blur"

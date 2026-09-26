@@ -31,7 +31,7 @@ export default async function TalkPage({ params }: PageProps<"/[locale]/parlons-
         {/* Accroche */}
         <div className="lg:col-span-5">
           <div className="lg:sticky lg:top-32">
-            <Reveal>
+            <Reveal immediate>
               <p className="eyebrow flex items-center gap-4 text-taupe">
                 <span aria-hidden className="h-px w-10 bg-current" />
                 {t("eyebrow")}
@@ -67,7 +67,7 @@ export default async function TalkPage({ params }: PageProps<"/[locale]/parlons-
         </div>
 
         {/* Formulaire */}
-        <Reveal delay={0.15} className="relative lg:col-span-6 lg:col-start-7">
+        <Reveal immediate delay={0.2} className="relative lg:col-span-6 lg:col-start-7">
           <ContactForm />
         </Reveal>
       </div>
