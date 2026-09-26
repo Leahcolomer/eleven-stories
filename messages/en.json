@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "siteTitle": "Eleven Stories — Press Relations Agency, France & International",
+    "siteDescription": "Eleven Stories supports premium lifestyle brands — fashion, fine jewellery, beauty, hospitality, restaurants, design — with bespoke press relations strategies, in France and internationally.",
+    "history": "The Eleven Stories story",
+    "historyDescription": "Leah Colomer founded Eleven Stories, a France & International press relations agency dedicated to luxury lifestyle.",
+    "expertise": "Our expertise",
+    "expertiseDescription": "Press relations, brand strategy & visibility, launches & events, international development: the art of bespoke.",
+    "clients": "Writing the story with us",
+    "clientsDescription": "The brands, houses and places that have entrusted Eleven Stories with their story.",
+    "contact": "Contact",
+    "contactDescription": "Get in touch with Eleven Stories, a press relations agency based in Toulouse, France & International.",
+    "talk": "Let's talk",
+    "talkDescription": "A project, an opening, a story to tell? Let's talk about your ambitions.",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy"
+  },
+  "nav": {
+    "menu": "Menu",
+    "open": "Open menu",
+    "close": "Close menu",
+    "home": "Home",
+    "history": "The Eleven Stories story",
+    "expertise": "Our expertise",
+    "clients": "Writing the story with us",
+    "contact": "Contact",
+    "talk": "Let's talk",
+    "skip": "Skip to content",
+    "language": "Language",
+    "tagline": "Tell. Connect. Inspire."
+  },
+  "footer": {
+    "line1": "Press relations & brand communication",
+    "line2": "France & International",
+    "legal": "Legal notice",
+    "privacy": "Privacy",
+    "copyright": "ELEVEN STORIES © {year}",
+    "based": "Based in Toulouse"
+  },
+  "home": {
+    "eyebrow": "Press relations agency · France & International",
+    "title": "Stories that deserve <em>to travel…</em>",
+    "discover": "Discover Eleven Stories",
+    "introEyebrow": "The agency",
+    "introLead": "Eleven Stories is a press relations agency dedicated to premium lifestyle brands, in France and internationally.",
+    "introBody": "Fashion, fine jewellery, beauty, hospitality, restaurants, design... We build bespoke PR strategies to grow your visibility, strengthen your image and place your brand in the media that matter.",
+    "introClosing": "Because a beautiful story should never stop at a border.",
+    "introLink": "The Eleven Stories story",
+    "manifesto": "<em>Tell.</em> Connect. <em>Inspire.</em>",
+    "sectors": ["Fashion", "Fine jewellery", "Beauty", "Cosmetics", "Hospitality", "Restaurants", "Design", "Art de vivre"],
+    "expertiseEyebrow": "Our expertise",
+    "expertiseTitle": "The art of <em>bespoke</em>",
+    "expertiseLink": "Discover our expertise",
+    "quote": "You create the exceptional. I give it the echo it deserves, <em>here and everywhere.</em>",
+    "quoteAuthor": "Leah Colomer",
+    "quoteRole": "Founder of Eleven Stories",
+    "quoteLink": "Read her story",
+    "ctaEyebrow": "Let's talk",
+    "ctaTitle": "A project, an opening, a story to tell? <em>Let's make it shine.</em>",
+    "ctaButton": "Let's talk"
+  },
+  "history": {
+    "eyebrow": "The Eleven Stories story",
+    "title": "The heart behind <em>the story.</em>",
+    "intro": [
+      "My name is Leah and I founded Eleven Stories, a France & International press relations agency dedicated to the world of luxury lifestyle.",
+      "I support brands, houses, places and creators in growing their visibility and their image, in France and abroad.",
+      "Hospitality, restaurants, fine jewellery, fashion, beauty, cosmetics, design, art de vivre… Eleven Stories moves at the crossroads of worlds guided by the same standard: a strong identity, a singular savoir-faire and a story worth telling.",
+      "My role is to turn that identity into a narrative that is true, desirable and relevant — one that sparks interest among media, journalists, editors-in-chief, stylists, tastemakers and content creators."
+    ],
+    "pull": "Finding the right angle. The right message. The right moment. <em>And above all, the right voices.</em>",
+    "visionEyebrow": "The vision",
+    "vision": [
+      "With more than 6 years of experience in international press relations for a premium house, I wanted to create a human-sized agency, able to support every project with genuine closeness.",
+      "Eleven Stories is built on a deeply bespoke approach. There is no standard strategy: each engagement is shaped around the brand's identity, its ambitions, its news and the markets it wants to reach."
+    ],
+    "worldEyebrow": "Here & beyond",
+    "world": [
+      "Based in Toulouse and resolutely open to the world, I run campaigns in France and abroad. This dual dimension is at the heart of my approach: understanding a project as closely as possible — its territory, its teams, its identity — while giving it resonance beyond its borders.",
+      "Over the years, my network has grown among journalists, editors-in-chief, stylists, tastemakers and talents, here and elsewhere.",
+      "Because press relations are also built in the field, I place great importance on meeting people: media appointments, press days, openings, launches, events, trade fairs, press trips and support abroad.",
+      "I see communication as an ecosystem in which press relations, influence, image, events and international development speak to one another coherently."
+    ],
+    "closing": "Eleven Stories is a vision of press relations that is demanding, human, agile and open to the world.",
+    "signature": "You create the exceptional. I give it the echo it deserves, <em>here and everywhere.</em>",
+    "signatureAuthor": "Leah Colomer — Founder",
+    "values": ["Demanding", "Human", "Agile", "Open to the world"]
+  },
+  "expertise": {
+    "eyebrow": "The method — Eleven Stories",
+    "title": "The art of <em>bespoke</em>",
+    "intro": "There is no standard strategy: each engagement is shaped around the brand's identity, its ambitions, its news and the markets it wants to reach.",
+    "items": [
+      {
+        "title": "Press relations",
+        "text": "Grow your visibility with key media through a targeted PR strategy, relevant editorial angles and privileged relationships with journalists, in France and internationally."
+      },
+      {
+        "title": "Brand strategy & visibility",
+        "text": "Build a clear positioning, identify the right voices and create the moments that establish your brand with its audiences for the long term."
+      },
+      {
+        "title": "Launches & events",
+        "text": "Imagine and orchestrate the highlights people remember: collection launches, openings, press dinners, activations and bespoke experiences."
+      },
+      {
+        "title": "International development",
+        "text": "Take your image beyond borders with a strategy tailored to target markets, local media and international visibility opportunities."
+      }
+    ],
+    "ctaTitle": "Every story calls for <em>its own strategy.</em>",
+    "ctaButton": "Let's talk"
+  },
+  "clients": {
+    "eyebrow": "Writing the story with us",
+    "title": "They chose to entrust us with <em>their story…</em>",
+    "emptyTitle": "The first stories <em>are being written right now.</em>",
+    "emptyText": "Eleven Stories is working with its very first brands. Their stories will soon find their place here — and yours could be one of them.",
+    "emptyButton": "Write yours"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's write what comes next, <em>together.</em>",
+    "intro": "A question, some news, a project? Eleven Stories will get back to you personally.",
+    "phone": "Phone",
+    "email": "Email",
+    "instagram": "Instagram",
+    "instagramSoon": "Coming soon",
+    "location": "Location",
+    "locationValue": "Based in Toulouse — France & International",
+    "ctaText": "Would you rather tell us about your project in a few lines?",
+    "ctaButton": "Let's talk"
+  },
+  "talk": {
+    "eyebrow": "Let's talk",
+    "title": "A project, an opening, a story to tell? <em>Let's make it shine.</em>",
+    "intro": "Let's talk about your ambitions, your key moments and your news. Eleven Stories designs a bespoke strategy with you to bring your project to light and give it the visibility it deserves.",
+    "direct": "Or directly:"
+  },
+  "form": {
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "zone": "Target area",
+    "zoneOptions": {
+      "france": "France",
+      "international": "International",
+      "both": "France & International"
+    },
+    "city": "City / cities or country",
+    "cityPlaceholder": "E.g. Paris, London, Dubai…",
+    "sector": "Industry",
+    "sectorOptions": {
+      "fashion": "Fashion",
+      "jewellery": "Fine jewellery",
+      "hospitality": "Hospitality",
+      "restaurant": "Restaurants",
+      "beauty": "Beauty & cosmetics",
+      "design": "Design & art de vivre",
+      "other": "Other"
+    },
+    "select": "Select",
+    "message": "Your project / news",
+    "messagePlaceholder": "Tell us about your brand, your ambitions, your key moments…",
+    "optional": "optional",
+    "consent": "I agree that my data may be used by Eleven Stories to get back to me. See the <link>privacy policy</link>.",
+    "submit": "Send",
+    "sending": "Sending…",
+    "successTitle": "Thank you, <em>your story is in good hands.</em>",
+    "successText": "Your message has been sent. Eleven Stories will get back to you very soon.",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Invalid email address.",
+      "phone": "Invalid phone number.",
+      "consent": "Please accept so that we can get back to you.",
+      "tooLong": "Text is too long.",
+      "server": "Something went wrong. Please try again or write to us directly at {email}."
+    }
+  },
+  "legal": {
+    "title": "Legal notice",
+    "publisherTitle": "Site publisher",
+    "publisherBy": "By {name}",
+    "siren": "SIREN",
+    "sirenPending": "Registration in progress",
+    "email": "Email",
+    "phone": "Phone",
+    "hostTitle": "Hosting",
+    "hostName": "Host",
+    "hostAddress": "Address",
+    "hostWebsite": "Website",
+    "ipTitle": "Intellectual property",
+    "ip": "All content on the Eleven Stories website, including texts, photographs, graphic elements, logos and visuals, is protected by intellectual property law, unless stated otherwise. Any reproduction, representation, modification or use, in whole or in part, of the site's content without prior authorisation is prohibited.",
+    "liabilityTitle": "Liability",
+    "liability": "Eleven Stories strives to keep the information published on this site accurate and up to date. However, Eleven Stories cannot be held responsible for any errors, omissions or unavailability of the site.",
+    "dataTitle": "Personal data",
+    "data": "The processing of data submitted through the contact form is described in the <link>privacy policy</link>."
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Last updated: September 2026",
+    "sections": [
+      {
+        "title": "Data controller",
+        "text": "The data controller for data collected on this site is Eleven Stories, represented by Leah Colomer, who can be reached at elevenstories.pr@gmail.com."
+      },
+      {
+        "title": "Data collected",
+        "text": "Through the \"Let's talk\" form, we collect the information you choose to share with us: full name, email address, phone number, target area, industry and the content of your message."
+      },
+      {
+        "title": "Purpose and legal basis",
+        "text": "This data is used solely to respond to your request and, where relevant, to discuss your project with you. Processing is based on your consent, given by ticking the box provided before submitting the form."
+      },
+      {
+        "title": "Recipients",
+        "text": "Your data is intended exclusively for Eleven Stories. It is never sold or passed on to third parties. Messages are delivered by our email provider (Resend) and the site is hosted by Vercel, both acting as processors."
+      },
+      {
+        "title": "Retention period",
+        "text": "Data is kept for as long as necessary to handle your request, and for a maximum of 3 years from our last exchange."
+      },
+      {
+        "title": "Analytics and cookies",
+        "text": "This site uses Vercel Analytics, a privacy-friendly audience measurement tool that sets no cookies and collects no data that can identify you. No advertising or tracking cookies are used, which is why no consent banner is displayed."
+      },
+      {
+        "title": "Your rights",
+        "text": "Under the GDPR, you have the right to access, rectify, erase, restrict and object to the processing of your data, as well as the right to data portability. You may withdraw your consent at any time. To exercise these rights, write to elevenstories.pr@gmail.com. You may also lodge a complaint with the CNIL (www.cnil.fr)."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "This page <em>does not exist.</em>",
+    "text": "The story continues elsewhere.",
+    "back": "Back to home"
+  }
+}

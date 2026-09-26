@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "siteTitle": "Eleven Stories — Agence de relations presse France & International",
+    "siteDescription": "Eleven Stories accompagne les marques lifestyle premium — mode, joaillerie, beauté, hôtellerie, restauration, design — dans leur stratégie de relations presse, en France et à l'international.",
+    "history": "L'histoire d'Eleven Stories",
+    "historyDescription": "Leah Colomer a fondé Eleven Stories, une agence de relations presse France & International dédiée aux univers du lifestyle haut de gamme.",
+    "expertise": "Nos expertises",
+    "expertiseDescription": "Relations presse, stratégie & visibilité de marque, lancements & événements, développement international : l'art du sur-mesure.",
+    "clients": "Ils écrivent l'histoire avec nous",
+    "clientsDescription": "Les marques, maisons et lieux qui ont confié leur histoire à Eleven Stories.",
+    "contact": "Contact",
+    "contactDescription": "Contactez Eleven Stories, agence de relations presse basée à Toulouse, France & International.",
+    "talk": "Parlons-en",
+    "talkDescription": "Un projet, une ouverture, une histoire à raconter ? Échangeons autour de vos ambitions.",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "nav": {
+    "menu": "Menu",
+    "open": "Ouvrir le menu",
+    "close": "Fermer le menu",
+    "home": "Accueil",
+    "history": "L'histoire d'Eleven Stories",
+    "expertise": "Nos expertises",
+    "clients": "Ils écrivent l'histoire avec nous",
+    "contact": "Contact",
+    "talk": "Parlons-en",
+    "skip": "Aller au contenu",
+    "language": "Langue",
+    "tagline": "Raconter. Connecter. Inspirer."
+  },
+  "footer": {
+    "line1": "Relations presse & communication de marque",
+    "line2": "France & International",
+    "legal": "Mentions légales",
+    "privacy": "Confidentialité",
+    "copyright": "ELEVEN STORIES © {year}",
+    "based": "Basée à Toulouse"
+  },
+  "home": {
+    "eyebrow": "Agence de relations presse · France & International",
+    "title": "Des histoires qui méritent <em>de voyager…</em>",
+    "discover": "Découvrir Eleven Stories",
+    "introEyebrow": "L'agence",
+    "introLead": "Eleven Stories est une agence de relations presse spécialisée dans l'accompagnement de marques lifestyle premium, en France et à l'international.",
+    "introBody": "Mode, joaillerie, beauté, hôtellerie, restauration, design... Nous construisons des stratégies RP sur mesure pour développer votre visibilité, renforcer votre image et inscrire votre marque dans les médias qui comptent.",
+    "introClosing": "Parce qu'une belle histoire ne devrait pas s'arrêter à une frontière.",
+    "introLink": "L'histoire d'Eleven Stories",
+    "manifesto": "<em>Raconter.</em> Connecter. <em>Inspirer.</em>",
+    "sectors": ["Mode", "Joaillerie", "Beauté", "Cosmétique", "Hôtellerie", "Restauration", "Design", "Art de vivre"],
+    "expertiseEyebrow": "Nos expertises",
+    "expertiseTitle": "L'art du <em>sur-mesure</em>",
+    "expertiseLink": "Découvrir nos expertises",
+    "quote": "Vous créez l'exception. Je lui donne l'écho qu'elle mérite, <em>ici comme ailleurs.</em>",
+    "quoteAuthor": "Leah Colomer",
+    "quoteRole": "Fondatrice d'Eleven Stories",
+    "quoteLink": "Découvrir son histoire",
+    "ctaEyebrow": "Parlons-en",
+    "ctaTitle": "Un projet, une ouverture, une histoire à raconter ? <em>Faisons-⁠la rayonner.</em>",
+    "ctaButton": "Parlons-en"
+  },
+  "history": {
+    "eyebrow": "L'histoire d'Eleven Stories",
+    "title": "Le cœur derrière <em>l'histoire.</em>",
+    "intro": [
+      "Je m'appelle Leah et j'ai fondé Eleven Stories, une agence de relations presse France & International dédiée aux univers du lifestyle haut de gamme.",
+      "J'accompagne les marques, les maisons, les lieux et les créateurs dans le développement de leur visibilité et de leur image, en France comme à l'étranger.",
+      "Hôtellerie, restauration, joaillerie, mode, beauté, cosmétique, design, art de vivre… Eleven Stories évolue au croisement d'univers guidés par une même exigence : une identité forte, un savoir-faire singulier et une histoire qui mérite d'être racontée.",
+      "Mon rôle est de transformer cette identité en un récit juste, désirable et pertinent, capable de créer de l'intérêt auprès des médias, journalistes, rédacteurs en chef, stylistes, prescripteurs et créateurs de contenu."
+    ],
+    "pull": "Trouver le bon angle. Le bon message. Le bon moment. <em>Et surtout, les bons relais.</em>",
+    "visionEyebrow": "La vision",
+    "vision": [
+      "Forte de plus de 6 ans d'expérience en relations presse internationales pour une maison premium, j'ai souhaité créer une structure à taille humaine, capable d'accompagner chaque projet avec une réelle proximité.",
+      "Eleven Stories repose sur une approche profondément sur mesure. Il n'existe pas de stratégie standardisée : chaque accompagnement est construit en fonction de l'identité de la marque, de ses ambitions, de son actualité et des marchés qu'elle souhaite adresser."
+    ],
+    "worldEyebrow": "Ici & ailleurs",
+    "world": [
+      "Basée à Toulouse et résolument tournée vers le monde, je développe des campagnes en France comme à l'export. Cette double dimension fait partie intégrante de mon approche : comprendre un projet au plus près de son territoire, de ses équipes et de son identité, tout en lui donnant une résonance au-delà de ses frontières.",
+      "Mon réseau s'est construit au fil des années auprès de journalistes, rédacteurs en chef, stylistes, prescripteurs et talents, ici et ailleurs.",
+      "Parce que les relations presse se construisent aussi sur le terrain, j'accorde une place essentielle aux rencontres : rendez-vous médias, journées presse, ouvertures, lancements, événements, salons, voyages presse et accompagnements à l'étranger.",
+      "J'envisage la communication comme un écosystème où relations presse, influence, image, événementiel et développement international dialoguent avec cohérence."
+    ],
+    "closing": "Eleven Stories, c'est une vision des relations presse exigeante, humaine, agile et ouverte sur le monde.",
+    "signature": "Vous créez l'exception. Je lui donne l'écho qu'elle mérite, <em>ici comme ailleurs.</em>",
+    "signatureAuthor": "Leah Colomer — Fondatrice",
+    "values": ["Exigeante", "Humaine", "Agile", "Ouverte sur le monde"]
+  },
+  "expertise": {
+    "eyebrow": "La méthode — Eleven Stories",
+    "title": "L'art du <em>sur-mesure</em>",
+    "intro": "Il n'existe pas de stratégie standardisée : chaque accompagnement est construit en fonction de l'identité de la marque, de ses ambitions, de son actualité et des marchés qu'elle souhaite adresser.",
+    "items": [
+      {
+        "title": "Relations presse",
+        "text": "Développer votre visibilité auprès des médias clés grâce à une stratégie RP ciblée, des angles éditoriaux pertinents et des relations privilégiées avec les journalistes, en France comme à l'international."
+      },
+      {
+        "title": "Stratégie & visibilité de marque",
+        "text": "Construire un positionnement clair, identifier les bons relais et créer les prises de parole qui installent durablement votre marque auprès de ses publics."
+      },
+      {
+        "title": "Lancements & événements",
+        "text": "Imaginer et orchestrer les temps forts qui marquent les esprits : lancements de collections, ouvertures, dîners de presse, activations et expériences sur mesure."
+      },
+      {
+        "title": "Développement international",
+        "text": "Déployer votre image au-delà des frontières grâce à une stratégie adaptée aux marchés ciblés, aux médias locaux et aux opportunités de visibilité à l'international."
+      }
+    ],
+    "ctaTitle": "Chaque histoire appelle <em>sa propre stratégie.</em>",
+    "ctaButton": "Parlons-en"
+  },
+  "clients": {
+    "eyebrow": "Ils écrivent l'histoire avec nous",
+    "title": "Ils ont choisi de nous confier <em>leur histoire…</em>",
+    "emptyTitle": "Les premières histoires <em>s'écrivent en ce moment.</em>",
+    "emptyText": "Eleven Stories accompagne ses premières marques. Leurs récits prendront bientôt place ici — et le vôtre pourrait en faire partie.",
+    "emptyButton": "Écrire la vôtre"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Écrivons la suite <em>ensemble.</em>",
+    "intro": "Une question, une actualité, un projet ? Eleven Stories vous répond personnellement.",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "instagram": "Instagram",
+    "instagramSoon": "Bientôt disponible",
+    "location": "Localisation",
+    "locationValue": "Basée à Toulouse — France & International",
+    "ctaText": "Vous préférez nous présenter votre projet en quelques lignes ?",
+    "ctaButton": "Parlons-en"
+  },
+  "talk": {
+    "eyebrow": "Parlons-en",
+    "title": "Un projet, une ouverture, une histoire à raconter ? <em>Faisons-⁠la rayonner.</em>",
+    "intro": "Échangeons autour de vos ambitions, de vos temps forts et de votre actualité. Eleven Stories imagine avec vous une stratégie sur mesure pour faire émerger votre projet et lui offrir la visibilité qu'il mérite.",
+    "direct": "Ou directement :"
+  },
+  "form": {
+    "name": "Nom / Prénom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "zone": "Zone géographique visée",
+    "zoneOptions": {
+      "france": "France",
+      "international": "International",
+      "both": "France & International"
+    },
+    "city": "Ville(s) ou pays",
+    "cityPlaceholder": "Ex. Paris, Londres, Dubaï…",
+    "sector": "Secteur d'activité",
+    "sectorOptions": {
+      "fashion": "Mode",
+      "jewellery": "Joaillerie",
+      "hospitality": "Hôtellerie",
+      "restaurant": "Restauration",
+      "beauty": "Beauté & cosmétique",
+      "design": "Design & art de vivre",
+      "other": "Autre"
+    },
+    "select": "Sélectionner",
+    "message": "Votre projet / actualité",
+    "messagePlaceholder": "Parlez-nous de votre marque, de vos ambitions, de vos temps forts…",
+    "optional": "facultatif",
+    "consent": "J'accepte que mes données soient utilisées pour être recontacté(e) par Eleven Stories. Voir la <link>politique de confidentialité</link>.",
+    "submit": "Envoyer",
+    "sending": "Envoi en cours…",
+    "successTitle": "Merci, <em>votre histoire est entre de bonnes mains.</em>",
+    "successText": "Votre message a bien été envoyé. Eleven Stories revient vers vous très rapidement.",
+    "errors": {
+      "required": "Ce champ est requis.",
+      "email": "Adresse e-mail invalide.",
+      "phone": "Numéro de téléphone invalide.",
+      "consent": "Merci d'accepter pour pouvoir être recontacté(e).",
+      "tooLong": "Texte trop long.",
+      "server": "Une erreur est survenue. Réessayez ou écrivez-nous directement à {email}."
+    }
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "publisherTitle": "Éditeur du site",
+    "publisherBy": "Par {name}",
+    "siren": "SIREN",
+    "sirenPending": "En cours d'immatriculation",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "hostTitle": "Hébergement",
+    "hostName": "Nom de l'hébergeur",
+    "hostAddress": "Adresse",
+    "hostWebsite": "Site",
+    "ipTitle": "Propriété intellectuelle",
+    "ip": "L'ensemble des contenus présents sur le site Eleven Stories, notamment les textes, photographies, éléments graphiques, logos et visuels, sont protégés par les dispositions relatives à la propriété intellectuelle, sauf mention contraire. Toute reproduction, représentation, modification ou utilisation, totale ou partielle, des contenus du site sans autorisation préalable est interdite.",
+    "liabilityTitle": "Responsabilité",
+    "liability": "Eleven Stories s'efforce de maintenir les informations publiées sur ce site à jour et exactes. Toutefois, Eleven Stories ne saurait être tenue responsable des éventuelles erreurs, omissions ou indisponibilités du site.",
+    "dataTitle": "Données personnelles",
+    "data": "Le traitement des données transmises via le formulaire de contact est décrit dans la <link>politique de confidentialité</link>."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "updated": "Dernière mise à jour : septembre 2026",
+    "sections": [
+      {
+        "title": "Responsable du traitement",
+        "text": "Le responsable du traitement des données collectées sur ce site est Eleven Stories, représentée par Leah Colomer, joignable à l'adresse elevenstories.pr@gmail.com."
+      },
+      {
+        "title": "Données collectées",
+        "text": "Via le formulaire « Parlons-en », nous collectons les informations que vous choisissez de nous transmettre : nom et prénom, adresse e-mail, numéro de téléphone, zone géographique visée, secteur d'activité et le contenu de votre message."
+      },
+      {
+        "title": "Finalité et base légale",
+        "text": "Ces données sont utilisées uniquement pour répondre à votre demande et, le cas échéant, échanger avec vous sur votre projet. Le traitement repose sur votre consentement, exprimé en cochant la case prévue à cet effet avant l'envoi du formulaire."
+      },
+      {
+        "title": "Destinataires",
+        "text": "Vos données sont destinées exclusivement à Eleven Stories. Elles ne sont ni vendues, ni cédées à des tiers. L'acheminement des messages est assuré par notre prestataire d'envoi d'e-mails (Resend), et le site est hébergé par Vercel, qui agissent en qualité de sous-traitants."
+      },
+      {
+        "title": "Durée de conservation",
+        "text": "Les données sont conservées pendant la durée nécessaire au traitement de votre demande, puis au maximum 3 ans à compter de notre dernier échange."
+      },
+      {
+        "title": "Mesure d'audience et cookies",
+        "text": "Ce site utilise Vercel Analytics, un outil de mesure d'audience respectueux de la vie privée qui ne dépose aucun cookie et ne collecte aucune donnée permettant de vous identifier. Aucun cookie publicitaire ou de traçage n'est utilisé ; c'est pourquoi aucun bandeau de consentement ne s'affiche."
+      },
+      {
+        "title": "Vos droits",
+        "text": "Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation et d'opposition au traitement de vos données, ainsi que d'un droit à la portabilité. Vous pouvez retirer votre consentement à tout moment. Pour exercer ces droits, écrivez à elevenstories.pr@gmail.com. Vous pouvez également introduire une réclamation auprès de la CNIL (www.cnil.fr)."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Cette page <em>n'existe pas.</em>",
+    "text": "L'histoire continue ailleurs.",
+    "back": "Retour à l'accueil"
+  }
+}

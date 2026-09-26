@@ -1,0 +1,158 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #111111;
+  --color-paper: #ffffff;
+  --color-ecru: #f4efe8;
+  --color-sand: #e9e1d6;
+  --color-taupe: #8f8175;
+  --color-line: #d9d2c8;
+  --color-muted: #5f5a55;
+
+  --font-sans: var(--font-dm-sans), "Helvetica Neue", Arial, sans-serif;
+  --font-serif: var(--font-cormorant), Georgia, serif;
+  --font-label: var(--font-montserrat), "Helvetica Neue", Arial, sans-serif;
+  --font-logo: var(--font-playfair), Georgia, serif;
+
+  --ease-editorial: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: var(--color-ink);
+    color: var(--color-ecru);
+  }
+
+  :focus-visible {
+    outline: 1px solid currentColor;
+    outline-offset: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Titres éditoriaux : serif fine, italique pour les accents <em> */
+  .display {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    line-height: 1.02;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+    font-variant-numeric: lining-nums;
+  }
+  .display em,
+  .serif-accent em {
+    font-style: italic;
+    font-weight: 500;
+  }
+
+  /* Petits libellés en capitales très espacées (Montserrat Light, +300) */
+  .eyebrow {
+    font-family: var(--font-label);
+    font-weight: 300;
+    font-size: 0.6875rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    line-height: 1.6;
+  }
+
+  .prose-editorial p {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: var(--color-muted);
+  }
+  .prose-editorial p + p {
+    margin-top: 1.25rem;
+  }
+
+  /* Lien souligné qui se dessine au survol */
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 100% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.5s var(--ease-editorial);
+    padding-bottom: 2px;
+  }
+  .link-underline:hover {
+    background-size: 0% 1px;
+    background-position: 100% 100%;
+  }
+
+  /* Variante discrète : le trait n'apparaît qu'au survol */
+  .link-hover {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.5s var(--ease-editorial);
+    padding-bottom: 2px;
+  }
+  .link-hover:hover {
+    background-size: 100% 1px;
+    background-position: 0 100%;
+  }
+}
+
+/* Défilement continu des secteurs */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
+
+/* Indicateur de scroll */
+@keyframes scroll-line {
+  0% {
+    transform: scaleY(0);
+    transform-origin: top;
+  }
+  45% {
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+  55% {
+    transform: scaleY(1);
+    transform-origin: bottom;
+  }
+  100% {
+    transform: scaleY(0);
+    transform-origin: bottom;
+  }
+}
+.animate-scroll-line {
+  animation: scroll-line 2.4s var(--ease-editorial) infinite;
+}
