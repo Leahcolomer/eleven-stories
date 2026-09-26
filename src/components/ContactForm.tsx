@@ -12,7 +12,7 @@ import { cx, em } from "@/lib/utils";
 const initialState: ContactState = { status: "idle" };
 
 const inputClass =
-  "peer w-full rounded-none border-0 border-b border-line bg-transparent px-0 py-3 text-base font-light text-ink placeholder:text-taupe/70 focus:border-ink focus:outline-none focus:ring-0 transition-colors aria-[invalid=true]:border-red-800";
+  "peer w-full rounded-none border-0 border-b border-line bg-transparent px-0 py-3 text-base font-light text-ink placeholder:text-taupe focus:border-ink focus:outline-none focus:ring-0 transition-colors aria-[invalid=true]:border-red-800";
 
 export function ContactForm() {
   const t = useTranslations("form");
@@ -206,7 +206,7 @@ function Field({
     <div>
       <label htmlFor={id} className="eyebrow block text-taupe">
         {label}
-        {optional && <span className="ml-2 normal-case tracking-normal opacity-70">({optional})</span>}
+        {optional && <span className="ml-2 normal-case tracking-normal">({optional})</span>}
       </label>
       {children}
       {error && (
@@ -242,7 +242,7 @@ function Select({
         defaultValue={defaultValue ?? ""}
         aria-invalid={invalid}
         aria-describedby={invalid ? `${id}-error` : undefined}
-        className={cx(inputClass, "cursor-pointer appearance-none pr-8 invalid:text-taupe/70")}
+        className={cx(inputClass, "cursor-pointer appearance-none pr-8 invalid:text-taupe")}
       >
         <option value="" disabled>
           {placeholder}
