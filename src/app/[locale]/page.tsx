@@ -14,7 +14,12 @@ type Expertise = { title: string; text: string };
 export async function generateMetadata({ params }: PageProps<"/[locale]">): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
-  return pageMetadata({ locale: locale as Locale, pathname: "/", description: t("siteDescription") });
+  return pageMetadata({
+    locale: locale as Locale,
+    pathname: "/",
+    homeTitle: t("siteTitle"),
+    description: t("siteDescription"),
+  });
 }
 
 export default async function HomePage({ params }: PageProps<"/[locale]">) {
